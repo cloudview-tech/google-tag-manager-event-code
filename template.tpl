@@ -14,7 +14,13 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Phoenix Ads Event Code",
-  "categories": ["AFFILIATE_MARKETING", "ADVERTISING"],
+  "categories": [
+    "ADVERTISING",
+    "ANALYTICS",
+    "ATTRIBUTION",
+    "CONVERSIONS",
+    "MARKETING"
+  ],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",

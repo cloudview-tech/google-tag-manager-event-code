@@ -13,7 +13,9 @@
 # limitations under the License.
 
 homepage: "https://phoenix-ads.com/home"
-documentation: "https://phoenix-ads.com/home"
+documentation: "https://phoenix-ads.com/doc/c2s.html"
 versions:
+  - sha: d649cd5d0419e9c9ae9cfa907d049d01321e8d8b
+    changeNotes: Add documentation
   - sha: b8ea4ee75c0d78617b3f5c878995b7ab55874aec
     changeNotes: Initial Version
